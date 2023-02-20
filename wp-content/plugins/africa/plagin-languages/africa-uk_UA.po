@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: africa-plagin\n"
+"POT-Creation-Date: 2022-08-29 00:06+0300\n"
+"PO-Revision-Date: 2023-02-15 20:13+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: africa.php:142
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "«%1$s» потрiбно «%2$s» встановленно та активовано."
+
+#: africa.php:143 africa.php:166 africa.php:190
+msgid "Elementor Test Addon"
+msgstr ""
+
+#: africa.php:144 africa.php:167
+msgid "Elementor"
+msgstr ""
+
+#: africa.php:165 africa.php:189
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "«%1$s» потрiбно «%2$s» версiя %3$s или старше."
+
+#: africa.php:191
+msgid "PHP"
+msgstr ""
+
+#: africa.php:211
+msgid "Castom category"
+msgstr "Кастомни категорii"
+
+#: controls/flaticon_control.php:35 controls/flaticon_control.php:36
+msgid "Select Icon"
+msgstr "Виберіть іконку"
+
+#: inc/castom-leadership-post-type.php:8 inc/castom-leadership-post-type.php:19
+msgid "Leaderships"
+msgstr "Лідерство"
+
+#: inc/castom-leadership-post-type.php:9
+msgid "Leadership"
+msgstr "Лідери"
+
+#: inc/castom-leadership-post-type.php:10
+msgid "Add profile"
+msgstr "Додати профіль"
+
+#: inc/castom-leadership-post-type.php:11
+msgid "Addition profile"
+msgstr "Додатковий профіль"
+
+#: inc/castom-leadership-post-type.php:12
+msgid "Edit profile"
+msgstr "Редагований профіль"
+
+#: inc/castom-leadership-post-type.php:13
+msgid "Create profile"
+msgstr "Створити профіль"
+
+#: inc/castom-leadership-post-type.php:14
+msgid "View profile"
+msgstr "Переглянути профіль"
+
+#: inc/castom-leadership-post-type.php:15
+msgid "Search profile"
+msgstr "Знайти профіль"
+
+#: inc/castom-leadership-post-type.php:16
+#: inc/castom-testimonial-post-type.php:15
+msgid "Not found"
+msgstr "Не знайдено"
+
+#: inc/castom-leadership-post-type.php:17
+#: inc/castom-testimonial-post-type.php:16
+msgid "Not found in trash"
+msgstr "Не знайдено в корзине"
+
+#: inc/castom-metaboxes.php:25
+msgid "Leadership name"
+msgstr "Ім’я лідера"
+
+#: inc/castom-metaboxes.php:28
+msgid "Social network icon first"
+msgstr "Перша іконка соціальної мережі"
+
+#: inc/castom-metaboxes.php:32
+msgid "Social network icon second"
+msgstr "Друга іконка соціальної мережі"
+
+#: inc/castom-metaboxes.php:36
+msgid "Social network icon third"
+msgstr "Tретя іконка соціальної мережі"
+
+#: inc/castom-testimonial-post-type.php:7
+#: inc/castom-testimonial-post-type.php:18
+msgid "Testimonials"
+msgstr "Відгуки"
+
+#: inc/castom-testimonial-post-type.php:8
+msgid "Testimonial"
+msgstr "Відгук"
+
+#: inc/castom-testimonial-post-type.php:9
+msgid "Add testimonial"
+msgstr "Додати відгук"
+
+#: inc/castom-testimonial-post-type.php:10
+msgid "Addition testimonial"
+msgstr "Додаткові відгуки"
+
+#: inc/castom-testimonial-post-type.php:11
+msgid "Edit testimonial"
+msgstr "Редагувати відгуки"
+
+#: inc/castom-testimonial-post-type.php:12
+msgid "Create testimonial"
+msgstr "Створити відгук"
+
+#: inc/castom-testimonial-post-type.php:13
+msgid "View testimonial"
+msgstr "Переглянути відгук"
+
+#: inc/castom-testimonial-post-type.php:14
+msgid "Search testimonial"
+msgstr "Знайти відгук"
+
+#: inc/theme-options-settings.php:129
+msgid "General settings"
+msgstr "Загальні вказівки"
+
+#: inc/theme-options-settings.php:141
+msgid "General options"
+msgstr "Загальні опцii"
+
+#: inc/theme-options-settings.php:151
+msgid "Footer options"
+msgstr "Опцii футера"
+
+#: inc/theme-options-settings.php:205
+msgid "Site title"
+msgstr "Титул сайту"
+
+#: inc/theme-options-settings.php:219
+msgid "Footer section 1-st title"
+msgstr "Футер-секція 1 титул"
+
+#: inc/theme-options-settings.php:233
+msgid "Footer section 1 content"
+msgstr "Футер-секція 1 контент"
+
+#: inc/theme-options-settings.php:246
+msgid "Footer section 2-nd title"
+msgstr "Футер-секція 2 титул"
+
+#: inc/theme-options-settings.php:260
+msgid "Footer section 3-st title"
+msgstr "Футер-секція 3 титул"
+
+#: inc/theme-options-settings.php:274
+msgid "Footer section 3 content"
+msgstr "Футер-секція 3 контент"
+
+#: inc/theme-options-settings.php:286
+msgid "Footer section 4-st title"
+msgstr "Футер-секція 4 титул"
+
+#: inc/theme-options-settings.php:300
+msgid "Footer section 4 content (Shortcode for form.)"
+msgstr "Футер-секція 4 контент (Шот код для форми)"
+
+#: inc/theme-options-settings.php:313
+msgid "Footer section 5-st title. (Social contacts)"
+msgstr "Футер-секція 5 титул (Соціальні контакти)"
+
+#: inc/theme-options-settings.php:327
+msgid "Footer section 5 content. (1-st social icon's name.)"
+msgstr "Футер-секція 5 контент (Назва 1-ї соціальної іконки)"
+
+#: inc/theme-options-settings.php:339
+msgid "Footer section 5 content. (1-st social link's name.)"
+msgstr "Футер-секція 5 контент (Посилання 1-ї соціальної іконки)"
+
+#: inc/theme-options-settings.php:354
+msgid "Footer section 5 content. (2-st social icon's name.)"
+msgstr "Футер-секція 5 контент (Назва 2-ї соціальної іконки)"
+
+#: inc/theme-options-settings.php:366
+msgid "Footer section 5 content. (2-st social link's name.)"
+msgstr "Футер-секція 5 контент (Посилання 2-ї соціальної іконки)"
+
+#: inc/theme-options-settings.php:380
+msgid "Footer section 5 content. (3-st social icon's name.)"
+msgstr "Футер-секція 5 контент (Назва 3-ї соціальної іконки)"
+
+#: inc/theme-options-settings.php:392
+msgid "Footer section 5 content. (3-st social link's name.)"
+msgstr "Футер-секція 5 контент (Посилання 3-ї соціальної іконки)"
+
+#: inc/theme-options-settings.php:406
+msgid "Footer section 5 content. (4-st social icon's name.)"
+msgstr "Футер-секція 5 контент (Назва 4-ї соціальної іконки)"
+
+#: inc/theme-options-settings.php:418
+msgid "Footer section 5 content. (4-st social link's name.)"
+msgstr "Футер-секція 5 контент (Посилання 4-ї соціальної іконки)"
+
+#: widget/discaver_widget.php:13
+msgid "Discaver"
+msgstr "Досягнення"
+
+#: widget/discaver_widget.php:37
+msgid "Discaver description"
+msgstr "Опис досягнень"
+
+#: widget/discaver_widget.php:47 widget/donation_widget.php:45
+#: widget/icon_info_widget.php:45 widget/leadership_widget.php:45
+#: widget/our_mission_widget.php:47 widget/simple_info_widget.php:45
+#: widget/testimonial_widget.php:45
+msgid "Title"
+msgstr "Титул"
+
+#: widget/discaver_widget.php:49 widget/discaver_widget.php:83
+#: widget/donation_widget.php:47 widget/donation_widget.php:57
+#: widget/icon_info_widget.php:47 widget/leadership_widget.php:47
+#: widget/our_mission_widget.php:49 widget/recently_blog_widget.php:47
+#: widget/simple_info_widget.php:47 widget/testimonial_widget.php:47
+msgid "Default title"
+msgstr "Титул за замовчуванням"
+
+#: widget/discaver_widget.php:50 widget/discaver_widget.php:84
+#: widget/donation_widget.php:48 widget/icon_info_widget.php:48
+#: widget/leadership_widget.php:48 widget/our_mission_widget.php:50
+#: widget/recently_blog_widget.php:48 widget/simple_info_widget.php:48
+#: widget/testimonial_widget.php:48
+msgid "Type your title here"
+msgstr "Наберіть титул тут"
+
+#: widget/discaver_widget.php:57 widget/icon_info_widget.php:55
+#: widget/leadership_widget.php:55 widget/our_mission_widget.php:57
+#: widget/simple_info_widget.php:55
+msgid "Description"
+msgstr "Опис"
+
+#: widget/discaver_widget.php:60 widget/icon_info_widget.php:58
+#: widget/leadership_widget.php:58 widget/our_mission_widget.php:60
+#: widget/simple_info_widget.php:58
+msgid "Type your description here"
+msgstr "Наберіть ваш опис тут"
+
+#: widget/discaver_widget.php:71
+msgid "Discaver data"
+msgstr "Дані про досягнення"
+
+#: widget/discaver_widget.php:81
+msgid "Discaver Description Title"
+msgstr "Заголовок досягнень"
+
+#: widget/discaver_widget.php:101
+msgid "Choose Discaver Content Image"
+msgstr "Виберіть контентне зображення секції досягнення"
+
+#: widget/discaver_widget.php:112
+msgid "First Subtitle"
+msgstr "Перший підзаголовок"
+
+#: widget/discaver_widget.php:114
+msgid "Default first subtitle"
+msgstr "Перший підзаголовок за промовчанням"
+
+#: widget/discaver_widget.php:115
+msgid "Type your first subtitle here"
+msgstr "Наберіть перший підзаголовок"
+
+#: widget/discaver_widget.php:122
+msgid "Second Subtitle"
+msgstr "Другий підзаголовок"
+
+#: widget/discaver_widget.php:124
+msgid "Default second subtitle"
+msgstr "Другий підзаголовок за промовчанням"
+
+#: widget/discaver_widget.php:125
+msgid "Type your second subtitle here"
+msgstr "Наберіть другий підзаголовок"
+
+#: widget/discaver_widget.php:132
+msgid "First Namber"
+msgstr "Перший номер"
+
+#: widget/discaver_widget.php:134
+msgid "Default first namber"
+msgstr "Перший номер за замовчуванням"
+
+#: widget/discaver_widget.php:135
+msgid "Type your first namber here"
+msgstr "Наберіть перший номер"
+
+#: widget/discaver_widget.php:142
+msgid "Second Namber"
+msgstr "Другий номер"
+
+#: widget/discaver_widget.php:144
+msgid "Default second namber"
+msgstr "Другий номер за замовчуванням"
+
+#: widget/discaver_widget.php:145
+msgid "Type your second namber here"
+msgstr "Наберіть другий номер"
+
+#: widget/discaver_widget.php:153
+msgid "Discaver content's data"
+msgstr "Контент розділу досягнення"
+
+#: widget/donation_widget.php:13
+msgid "Donation info"
+msgstr "Інформації про пожертвування"
+
+#: widget/donation_widget.php:37
+msgid "Donation content"
+msgstr "Контент роздiлу пожертвування"
+
+#: widget/donation_widget.php:55
+msgid "Button Title"
+msgstr "Кнопка титулу"
+
+#: widget/donation_widget.php:58
+msgid "Type utton title here"
+msgstr "Введіть заголовок"
+
+#: widget/donation_widget.php:65
+msgid "URL to donation"
+msgstr "URL для пожертвування"
+
+#: widget/donation_widget.php:75 widget/simple_info_widget.php:65
+msgid "Background color"
+msgstr "Колір фону"
+
+#: widget/donation_widget.php:86 widget/our_mission_widget.php:78
+#: widget/testimonial_widget.php:67
+msgid "Choose Background Image"
+msgstr "Вибір фонового зображення"
+
+#: widget/icon_info_widget.php:13
+msgid "Simple icon info"
+msgstr "Інформаційна іконка"
+
+#: widget/icon_info_widget.php:37
+msgid "Icon info content"
+msgstr "Контент іконки"
+
+#: widget/icon_info_widget.php:65
+msgid "Social Icons"
+msgstr "Соціальні іконки"
+
+#: widget/leadership_widget.php:13 widget/leadership_widget.php:37
+msgid "Leadership section"
+msgstr "Секція лідерів"
+
+#: widget/leadership_widget.php:66
+msgid "Leadership posts count"
+msgstr "Кількість постів секції лідери"
+
+#: widget/leadership_widget.php:69 widget/recently_blog_widget.php:69
+#: widget/testimonial_widget.php:59
+msgid "Type posts count"
+msgstr "Введіть кількість постів"
+
+#: widget/our_mission_widget.php:13
+msgid "Our mission"
+msgstr "Наша місія"
+
+#: widget/our_mission_widget.php:37
+msgid "Mission content & background"
+msgstr "Контент и фон  секції Місія"
+
+#: widget/our_mission_widget.php:67
+msgid "Background mask color"
+msgstr "Маска кольору фону"
+
+#: widget/our_mission_widget.php:98
+msgid "Video data"
+msgstr "Iнформація видео"
+
+#: widget/our_mission_widget.php:106
+msgid "Video Preview Image"
+msgstr "Превью видео"
+
+#: widget/our_mission_widget.php:117
+msgid "Video link"
+msgstr "Силка видео"
+
+#: widget/our_mission_widget.php:134
+msgid "Counter data"
+msgstr "Параметри лічильника"
+
+#: widget/our_mission_widget.php:142
+msgid "Counter number"
+msgstr "Цифра лічильника"
+
+#: widget/our_mission_widget.php:152
+msgid "Counter title"
+msgstr "Назва  лічильника"
+
+#: widget/our_mission_widget.php:163
+msgid "Counter"
+msgstr "Лічильник"
+
+#: widget/recently_blog_widget.php:13
+msgid "Recently blog section"
+msgstr "Остання секция блогу"
+
+#: widget/recently_blog_widget.php:37
+msgid "Blog section"
+msgstr "Секція блогу"
+
+#: widget/recently_blog_widget.php:45
+msgid "Blog title"
+msgstr "Заголовок блогу"
+
+#: widget/recently_blog_widget.php:55
+msgid "Blog description"
+msgstr "Заголовок блогу"
+
+#: widget/recently_blog_widget.php:66 widget/testimonial_widget.php:56
+msgid "Testimonial posts count"
+msgstr "Кількість відгуків"
+
+#: widget/recently_blog_widget.php:76 widget/testimonial_widget.php:77
+msgid "Testimonial color"
+msgstr "Колір секції відгуків"
+
+#: widget/simple_info_widget.php:13
+msgid "Simple info"
+msgstr "Проста інформація"
+
+#: widget/simple_info_widget.php:37
+msgid "Simple info content"
+msgstr "Контент секції інформація"
+
+#: widget/slider_widget.php:13
+msgid "slider"
+msgstr "cлайдер"
+
+#: widget/slider_widget.php:37
+msgid "Slider content"
+msgstr "Вміст слайдера"
+
+#: widget/slider_widget.php:49
+msgid "URL to embed"
+msgstr "Вставка URL"
+
+#: widget/slider_widget.php:52
+msgid "https://your-link.com"
+msgstr ""
+
+#: widget/slider_widget.php:59
+msgid "Choose Image"
+msgstr "Виберіть зображення"
+
+#: widget/slider_widget.php:97
+msgid "Slider"
+msgstr "Слайдер"
+
+#: widget/slider_widget.php:102
+msgid "Image #1"
+msgstr ""
+
+#: widget/slider_widget.php:103 widget/slider_widget.php:107
+msgid "Item content. Click the edit button to change this text."
+msgstr "Контент. Натисніть кнопку для внесення змін."
+
+#: widget/slider_widget.php:106
+msgid "Image #2"
+msgstr ""
+
+#: widget/testimonial_widget.php:13 widget/testimonial_widget.php:37
+msgid "Testimonial section"
+msgstr "Секція відгуків"

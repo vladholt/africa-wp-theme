@@ -1,0 +1,97 @@
+.site-main{
+	width: 100%;
+}
+
+section.error-404{
+	max-width: 1140px;
+	margin: 0 auto;
+	padding: 0 2em;
+	box-sizing: border-box;
+}
+
+.error-404 .page-header {
+	text-align: center;
+	padding: 3em;
+}
+
+.error-404 .page-content{
+	max-width: 100%;
+}
+
+.title-explanations{
+	max-width: 1140px;
+	text-align: center;
+}
+
+.error-404 .castom-searchbox {
+    width: 80%; /* Ширина поля с кнопкой */
+    border: none; /* Убираем рамку */ 
+    min-height: 2em; /* Минимальная высота */
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.page-content__items{
+	padding: 2em 1em;
+	display: flex;
+	flex-direction: column;
+	align-items: сenter;
+
+}
+
+.error-404 .page-content .widget-title,
+.error-404 .page-content .widgettitle{
+	margin: 1em 0 1em 0;
+	text-align: center;
+}
+
+.error-404 .page-content .widget_archive{
+	display: flex;
+	flex-direction: column;
+	align-items: сenter;
+	justify-content: center;
+}
+
+.error-404 .page-content .blog-archive select{
+	width: 80%;
+	height: 2em;
+	align-self: center;
+	background-color: lightgray;
+	text-align-last: center;
+	
+}
+
+option{
+	text-align-last: center;
+	
+}
+
+.error-404 .page-content .blog-archive p{
+	text-align: center;
+	width: 100%;
+}
+
+.error-404 .page-content .widget_categories ul{
+	list-style-type:none;
+	text-align: center;
+	padding-inline-start: 0;
+}
+
+
+
+
+@media (min-width: 991.98px){
+	.error-404 .page-content{
+		display: flex;
+		justify-content: space-between;
+	}
+
+	
+}
+
+@media (min-width: 1141px){
+	section.error-404{
+		padding: 0;
+	}
+}

@@ -1,0 +1,639 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Africa\n"
+"POT-Creation-Date: 2022-08-26 18:28+0300\n"
+"PO-Revision-Date: 2022-08-27 01:25+0300\n"
+"Last-Translator: \n"
+"Language-Team: admin\n"
+"Language: ru_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: themes/africa\n"
+"X-Poedit-SearchPath-1: plugins/africa\n"
+
+#: plugins/africa/africa.php:138
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "«%1$s» требуется «%2$s» установить и активировать."
+
+#: plugins/africa/africa.php:139 plugins/africa/africa.php:162
+#: plugins/africa/africa.php:186
+msgid "Elementor Test Addon"
+msgstr "Тестовое дополнение ELEMENTOR"
+
+#: plugins/africa/africa.php:140 plugins/africa/africa.php:163
+msgid "Elementor"
+msgstr "Elementor"
+
+#: plugins/africa/africa.php:161 plugins/africa/africa.php:185
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "«%1$s» требуется «%2$s» версия %3$s или выше."
+
+#: plugins/africa/africa.php:187
+msgid "PHP"
+msgstr ""
+
+#: plugins/africa/controls/flaticon_control.php:35
+#: plugins/africa/controls/flaticon_control.php:36
+msgid "Select Icon"
+msgstr "Выберете  иконку"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:8
+#: plugins/africa/inc/castom-leadership-post-type.php:19
+msgid "Leaderships"
+msgstr "Наши лидеры"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:9
+msgid "Leadership"
+msgstr "Лидерство"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:10
+msgid "Add profile"
+msgstr "Добавьте профиль"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:11
+msgid "Addition profile"
+msgstr "Дополнение к профилю"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:12
+msgid "Edit profile"
+msgstr "Редактируйте профиль"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:13
+msgid "Create profile"
+msgstr "Создайте профиль"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:14
+msgid "View profile"
+msgstr "Просмотреть профиль"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:15
+msgid "Search profile"
+msgstr "Найти профиль"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:16
+#: plugins/africa/inc/castom-testimonial-post-type.php:15
+msgid "Not found"
+msgstr "Не найден"
+
+#: plugins/africa/inc/castom-leadership-post-type.php:17
+#: plugins/africa/inc/castom-testimonial-post-type.php:16
+msgid "Not found in trash"
+msgstr "Не найден в корзине"
+
+#: plugins/africa/inc/castom-metaboxes.php:25
+msgid "Leadership name"
+msgstr "Имя  лидера"
+
+#: plugins/africa/inc/castom-metaboxes.php:28
+msgid "Social network icon first"
+msgstr "Первая иконка социальных сетей"
+
+#: plugins/africa/inc/castom-metaboxes.php:32
+msgid "Social network icon second"
+msgstr "Вторая иконка социальных сетей"
+
+#: plugins/africa/inc/castom-metaboxes.php:36
+msgid "Social network icon third"
+msgstr "Третья иконка социальных сетей"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:7
+#: plugins/africa/inc/castom-testimonial-post-type.php:18
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:8
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:9
+msgid "Add testimonial"
+msgstr "Добавьте отзыв"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:10
+msgid "Addition testimonial"
+msgstr "Добавление отзыва"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:11
+msgid "Edit testimonial"
+msgstr "Редактирование отзыва"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:12
+msgid "Create testimonial"
+msgstr "Создание отзыва"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:13
+msgid "View testimonial"
+msgstr "Просмотр отзыва"
+
+#: plugins/africa/inc/castom-testimonial-post-type.php:14
+msgid "Search testimonial"
+msgstr "Поиск отзыва"
+
+#: plugins/africa/inc/theme-options-settings.php:205
+msgid "Site title"
+msgstr "Титул сайта"
+
+#: plugins/africa/inc/theme-options-settings.php:219
+msgid "Footer section 1-st title"
+msgstr "Титул секции 1 футтера"
+
+#: plugins/africa/inc/theme-options-settings.php:233
+msgid "Footer section 1 content"
+msgstr "Контент секции 1 футтера"
+
+#: plugins/africa/inc/theme-options-settings.php:246
+msgid "Footer section 2-nd title"
+msgstr "Титул секции 2 футтера"
+
+#: plugins/africa/inc/theme-options-settings.php:260
+msgid "Footer section 3-st title"
+msgstr "Титул секции 3 футтера"
+
+#: plugins/africa/inc/theme-options-settings.php:274
+msgid "Footer section 3 content"
+msgstr "Контент секции 1 футтера"
+
+#: plugins/africa/inc/theme-options-settings.php:286
+msgid "Footer section 4-st title"
+msgstr "Титул секции 4 футтера"
+
+#: plugins/africa/inc/theme-options-settings.php:300
+msgid "Footer section 4 content (Shortcode for form.)"
+msgstr "Контент секции 4 футтера (Шот-код формы)"
+
+#: plugins/africa/inc/theme-options-settings.php:313
+msgid "Footer section 5-st title. (Social contacts)"
+msgstr "Титул секции 5 футтера (Социальные контакты)"
+
+#: plugins/africa/inc/theme-options-settings.php:327
+msgid "Footer section 5 content. (1-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (1-я  иконка социальных сетей)"
+
+#: plugins/africa/inc/theme-options-settings.php:339
+msgid "Footer section 5 content. (1-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 1-й социальной иконки)"
+
+#: plugins/africa/inc/theme-options-settings.php:354
+msgid "Footer section 5 content. (2-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (2-я иконка социальных сетей)"
+
+#: plugins/africa/inc/theme-options-settings.php:366
+msgid "Footer section 5 content. (2-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 2-й иконки социальных сетей)"
+
+#: plugins/africa/inc/theme-options-settings.php:380
+msgid "Footer section 5 content. (3-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (3-я иконка социальных сетей)"
+
+#: plugins/africa/inc/theme-options-settings.php:392
+msgid "Footer section 5 content. (3-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 3-й иконки социальных сетей)"
+
+#: plugins/africa/inc/theme-options-settings.php:406
+msgid "Footer section 5 content. (4-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (4-я иконка социальных сетей)"
+
+#: plugins/africa/inc/theme-options-settings.php:418
+msgid "Footer section 5 content. (4-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 4-й иконки социальных сетей)"
+
+#: plugins/africa/widget/discaver_widget.php:13
+msgid "Discaver"
+msgstr "Достижение"
+
+#: plugins/africa/widget/discaver_widget.php:37
+msgid "Discaver description"
+msgstr "Описание достижений"
+
+#: plugins/africa/widget/discaver_widget.php:47
+#: plugins/africa/widget/donation_widget.php:45
+#: plugins/africa/widget/icon_info_widget.php:45
+#: plugins/africa/widget/leadership_widget.php:45
+#: plugins/africa/widget/our_mission_widget.php:47
+#: plugins/africa/widget/simple_info_widget.php:45
+#: plugins/africa/widget/testimonial_widget.php:45
+msgid "Title"
+msgstr "Титул"
+
+#: plugins/africa/widget/discaver_widget.php:49
+#: plugins/africa/widget/discaver_widget.php:83
+#: plugins/africa/widget/donation_widget.php:47
+#: plugins/africa/widget/donation_widget.php:57
+#: plugins/africa/widget/icon_info_widget.php:47
+#: plugins/africa/widget/leadership_widget.php:47
+#: plugins/africa/widget/our_mission_widget.php:49
+#: plugins/africa/widget/recently_blog_widget.php:47
+#: plugins/africa/widget/simple_info_widget.php:47
+#: plugins/africa/widget/testimonial_widget.php:47
+msgid "Default title"
+msgstr "Титул по умолчанию"
+
+#: plugins/africa/widget/discaver_widget.php:50
+#: plugins/africa/widget/discaver_widget.php:84
+#: plugins/africa/widget/donation_widget.php:48
+#: plugins/africa/widget/icon_info_widget.php:48
+#: plugins/africa/widget/leadership_widget.php:48
+#: plugins/africa/widget/our_mission_widget.php:50
+#: plugins/africa/widget/recently_blog_widget.php:48
+#: plugins/africa/widget/simple_info_widget.php:48
+#: plugins/africa/widget/testimonial_widget.php:48
+msgid "Type your title here"
+msgstr "Напиши свой титул здесь"
+
+#: plugins/africa/widget/discaver_widget.php:57
+#: plugins/africa/widget/icon_info_widget.php:55
+#: plugins/africa/widget/leadership_widget.php:55
+#: plugins/africa/widget/our_mission_widget.php:57
+#: plugins/africa/widget/simple_info_widget.php:55
+msgid "Description"
+msgstr "Описание"
+
+#: plugins/africa/widget/discaver_widget.php:60
+#: plugins/africa/widget/icon_info_widget.php:58
+#: plugins/africa/widget/leadership_widget.php:58
+#: plugins/africa/widget/our_mission_widget.php:60
+#: plugins/africa/widget/simple_info_widget.php:58
+msgid "Type your description here"
+msgstr "Напиши здесь свое описание"
+
+#: plugins/africa/widget/discaver_widget.php:71
+msgid "Discaver data"
+msgstr "Данные достижения"
+
+#: plugins/africa/widget/discaver_widget.php:81
+msgid "Discaver Description Title"
+msgstr "Напиши описание достижений"
+
+#: plugins/africa/widget/discaver_widget.php:101
+msgid "Choose Discaver Content Image"
+msgstr "Выберите картинку для контента достижения"
+
+#: plugins/africa/widget/discaver_widget.php:112
+msgid "First Subtitle"
+msgstr "Первый подзаголовок"
+
+#: plugins/africa/widget/discaver_widget.php:114
+msgid "Default first subtitle"
+msgstr "Первый подзаголовокпо умолчанию"
+
+#: plugins/africa/widget/discaver_widget.php:115
+msgid "Type your first subtitle here"
+msgstr "Напишите  ваш первый подзаголовок здесь"
+
+#: plugins/africa/widget/discaver_widget.php:122
+msgid "Second Subtitle"
+msgstr "Второй подзаголовок"
+
+#: plugins/africa/widget/discaver_widget.php:124
+msgid "Default second subtitle"
+msgstr "Второй подзаголовок по умолчанию"
+
+#: plugins/africa/widget/discaver_widget.php:125
+msgid "Type your second subtitle here"
+msgstr "Напишите  ваш второй подзаголовок здесь"
+
+#: plugins/africa/widget/discaver_widget.php:132
+msgid "First Namber"
+msgstr "Первый номер"
+
+#: plugins/africa/widget/discaver_widget.php:134
+msgid "Default first namber"
+msgstr "Первый номер по умолчению"
+
+#: plugins/africa/widget/discaver_widget.php:135
+msgid "Type your first namber here"
+msgstr "Напишите  ваш первый номер здесь"
+
+#: plugins/africa/widget/discaver_widget.php:142
+msgid "Second Namber"
+msgstr "Второй номер"
+
+#: plugins/africa/widget/discaver_widget.php:144
+msgid "Default second namber"
+msgstr "Второй номер по умолчанию"
+
+#: plugins/africa/widget/discaver_widget.php:145
+msgid "Type your second namber here"
+msgstr "Напишите ваш  второй номер здесь"
+
+#: plugins/africa/widget/discaver_widget.php:153
+msgid "Discaver content's data"
+msgstr "Информация о достижениях"
+
+#: plugins/africa/widget/donation_widget.php:13
+msgid "Donation info"
+msgstr "Информация о пожертвованиях"
+
+#: plugins/africa/widget/donation_widget.php:37
+msgid "Donation content"
+msgstr "Контент пожертвований"
+
+#: plugins/africa/widget/donation_widget.php:55
+msgid "Button Title"
+msgstr "Название кнопки"
+
+#: plugins/africa/widget/donation_widget.php:58
+msgid "Type utton title here"
+msgstr "Напишите название кнопки здесь"
+
+#: plugins/africa/widget/donation_widget.php:65
+msgid "URL to donation"
+msgstr "URL для пожертвования"
+
+#: plugins/africa/widget/donation_widget.php:75
+#: plugins/africa/widget/simple_info_widget.php:65
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: plugins/africa/widget/donation_widget.php:86
+#: plugins/africa/widget/our_mission_widget.php:78
+#: plugins/africa/widget/testimonial_widget.php:67
+msgid "Choose Background Image"
+msgstr "Выберите изображение заднего фона"
+
+#: plugins/africa/widget/icon_info_widget.php:13
+msgid "Simple icon info"
+msgstr "Информация об иконке"
+
+#: plugins/africa/widget/icon_info_widget.php:37
+msgid "Icon info content"
+msgstr "Контент иконки"
+
+#: plugins/africa/widget/icon_info_widget.php:65
+msgid "Social Icons"
+msgstr "Иконки социальных сетей"
+
+#: plugins/africa/widget/leadership_widget.php:13
+#: plugins/africa/widget/leadership_widget.php:37
+msgid "Leadership section"
+msgstr "Секция  лидеров"
+
+#: plugins/africa/widget/leadership_widget.php:66
+msgid "Leadership posts count"
+msgstr "Количество постов с лидерами"
+
+#: plugins/africa/widget/leadership_widget.php:69
+#: plugins/africa/widget/recently_blog_widget.php:69
+#: plugins/africa/widget/testimonial_widget.php:59
+msgid "Type posts count"
+msgstr "Количество постов"
+
+#: plugins/africa/widget/our_mission_widget.php:13
+msgid "Our mission"
+msgstr "Наша миссия"
+
+#: plugins/africa/widget/our_mission_widget.php:37
+msgid "Mission content & background"
+msgstr "Фон  секции «Наша миссия»"
+
+#: plugins/africa/widget/our_mission_widget.php:67
+msgid "Background mask color"
+msgstr "Цвет фона"
+
+#: plugins/africa/widget/our_mission_widget.php:98
+msgid "Video data"
+msgstr "Информация о видео"
+
+#: plugins/africa/widget/our_mission_widget.php:106
+msgid "Video Preview Image"
+msgstr "Заставка для видео"
+
+#: plugins/africa/widget/our_mission_widget.php:117
+msgid "Video link"
+msgstr "Ссылка на видео"
+
+#: plugins/africa/widget/our_mission_widget.php:134
+msgid "Counter data"
+msgstr "Информация о счетчике"
+
+#: plugins/africa/widget/our_mission_widget.php:142
+msgid "Counter number"
+msgstr "Номер счетчика"
+
+#: plugins/africa/widget/our_mission_widget.php:152
+msgid "Counter title"
+msgstr "Название счетчика"
+
+#: plugins/africa/widget/our_mission_widget.php:163
+msgid "Counter"
+msgstr "Счетчик"
+
+#: plugins/africa/widget/recently_blog_widget.php:13
+msgid "Recently blog section"
+msgstr "Секция  последнего поста блога"
+
+#: plugins/africa/widget/recently_blog_widget.php:37
+msgid "Blog section"
+msgstr "Секция блога"
+
+#: plugins/africa/widget/recently_blog_widget.php:45
+msgid "Blog title"
+msgstr "Название блога"
+
+#: plugins/africa/widget/recently_blog_widget.php:55
+msgid "Blog description"
+msgstr "Описание блога"
+
+#: plugins/africa/widget/recently_blog_widget.php:66
+#: plugins/africa/widget/testimonial_widget.php:56
+msgid "Testimonial posts count"
+msgstr "Количество постов в отзывах"
+
+#: plugins/africa/widget/recently_blog_widget.php:76
+#: plugins/africa/widget/testimonial_widget.php:77
+msgid "Testimonial color"
+msgstr "Цвет фона секции отзывов"
+
+#: plugins/africa/widget/simple_info_widget.php:13
+msgid "Simple info"
+msgstr "Информация простого блока"
+
+#: plugins/africa/widget/simple_info_widget.php:37
+msgid "Simple info content"
+msgstr "Контент простого блока"
+
+#: plugins/africa/widget/slider_widget.php:13
+msgid "slider"
+msgstr "слайдер"
+
+#: plugins/africa/widget/slider_widget.php:37
+msgid "Slider content"
+msgstr "Контент слайдера"
+
+#: plugins/africa/widget/slider_widget.php:49
+msgid "URL to embed"
+msgstr "URL для вставки"
+
+#: plugins/africa/widget/slider_widget.php:52
+msgid "https://your-link.com"
+msgstr ""
+
+#: plugins/africa/widget/slider_widget.php:59
+msgid "Choose Image"
+msgstr "Выберите изображение"
+
+#: plugins/africa/widget/slider_widget.php:97
+msgid "Slider"
+msgstr "Слайдер"
+
+#: plugins/africa/widget/slider_widget.php:102
+msgid "Image #1"
+msgstr "Изображение  #1"
+
+#: plugins/africa/widget/slider_widget.php:103
+#: plugins/africa/widget/slider_widget.php:107
+msgid "Item content. Click the edit button to change this text."
+msgstr ""
+
+#: plugins/africa/widget/slider_widget.php:106
+msgid "Image #2"
+msgstr "Изображение  #2"
+
+#: plugins/africa/widget/testimonial_widget.php:13
+#: plugins/africa/widget/testimonial_widget.php:37
+msgid "Testimonial section"
+msgstr "Секция отзывов"
+
+#: themes/africa/404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Данная страница не найдена."
+
+#: themes/africa/404.php:16
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+"По вашему запросу ничего не найдено. Может попробуете пожалуйста  ссылку "
+"ниже или воспользуйтесь формой поиска?"
+
+#: themes/africa/404.php:23
+msgid "Most Used Categories"
+msgstr "Часто используемые категории"
+
+#: themes/africa/404.php:41
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать по месяцам. %1$s"
+
+#: themes/africa/comments.php:29
+msgid "Comments: "
+msgstr "Коментарии "
+
+#: themes/africa/comments1.php:35
+#, php-format
+msgid "One thought on :  &ldquo;%1$s&rdquo;"
+msgstr "Один отзыв в :  &ldquo;%1$s&rdquo;"
+
+#: themes/africa/comments1.php:68
+msgid "Comments are closed."
+msgstr "Коментарии закрыты."
+
+#: themes/africa/functions.php:52
+msgid "Primary"
+msgstr ""
+
+#: themes/africa/functions.php:53
+msgid "Primary blog"
+msgstr ""
+
+#: themes/africa/functions.php:54
+msgid "Footer menu"
+msgstr ""
+
+#: themes/africa/functions.php:130
+msgid "Blog sidebar left"
+msgstr ""
+
+#: themes/africa/functions.php:132 themes/africa/functions.php:143
+msgid "Add widgets here."
+msgstr "Добавте виджет."
+
+#: themes/africa/functions.php:141
+msgid "Blog sidebar bottom"
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Обязательное обновление"
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:920
+#: themes/africa/inc/class-tgm-plugin-activation.php:2626
+#: themes/africa/inc/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr "Вернутся в центральную консоль"
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:1027
+#: themes/africa/inc/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:3602
+#: themes/africa/inc/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr "Покажите детали"
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:3602
+#: themes/africa/inc/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr "Спрятать детали"
+
+#: themes/africa/inc/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: themes/africa/inc/template-tags.php:63
+msgid ", "
+msgstr ""
+
+#: themes/africa/inc/template-tags.php:66
+#, php-format
+msgid "Posted in %1$s"
+msgstr "Опублековано в  %1$s"
+
+#: themes/africa/inc/template-tags.php:73
+#, php-format
+msgid "Tagged %1$s"
+msgstr "Цель %1$s"

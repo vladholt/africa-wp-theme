@@ -1,0 +1,65 @@
+version: "3.1"
+services:
+
+  africa2-wp:
+      image: wordpress
+      depends_on: 
+        - db
+      container_name: africa2-wp
+      restart: always
+      ports:
+        - "8080:80"
+      volumes:
+        - ./wp-content:/var/www/html/wp-content
+      working_dir: /var/www/html/
+      environment:
+        WORDPRESS_DB_HOST: db
+        WORDPRESS_DB_NAME: africa
+        WORDPRESS_DB_USER: admin
+        WORDPRESS_DB_PASSWORD: admin
+        WP_MEMORY_LIMIT: 256M
+        WORDPRESS_CONFIG_EXTRA: define('WP_DEBUG', true);
+      networks:
+        - africa-network
+
+  db:
+    image: mysql
+    container_name: db
+    restart: always
+    volumes:
+      - ./db:/var/lib/mysql
+      - ./schema/africa.sql:/docker-entrypoint-initdb.d/africa.sql
+    environment:
+      MYSQL_ROOT_PASSWORD: "1"
+      MYSQL_DATABASE: africa
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin
+    networks:
+      - africa-network
+
+  africa-phpmyadmin:
+    image: phpmyadmin
+    restart: always
+    depends_on: 
+      - db
+    ports:
+      - "8081:80"
+    links: 
+      - "db"
+    environment:
+      MYSQL_ROOT_PASSWORD: "1"
+      PMA_HOST: db
+      PMA_ARBITRARY: 1
+      PMA_PORT: 3306
+      UPLOAD_LIMIT: 30M
+
+    networks:
+      - africa-network
+
+networks:
+  africa-network:
+      driver: bridge
+
+volumes:
+  db:
+    driver: local

@@ -1,0 +1,489 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2022-08-29 00:06+0300\n"
+"PO-Revision-Date: 2022-08-29 00:09+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.1.1\n"
+"X-Poedit-Basepath: .\n"
+
+#: africa.php:142
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr "«%1$s» требуется «%2$s» установить и активировать."
+
+#: africa.php:143 africa.php:166 africa.php:190
+msgid "Elementor Test Addon"
+msgstr "Тестовое дополнение ELEMENTOR"
+
+#: africa.php:144 africa.php:167
+msgid "Elementor"
+msgstr ""
+
+#: africa.php:165 africa.php:189
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "«%1$s» требуется «%2$s» версия %3$s или выше."
+
+#: africa.php:191
+msgid "PHP"
+msgstr ""
+
+#: africa.php:211
+msgid "Castom category"
+msgstr "Пользовательские категории"
+
+#: controls/flaticon_control.php:35 controls/flaticon_control.php:36
+msgid "Select Icon"
+msgstr "Выберите иконку"
+
+#: inc/castom-leadership-post-type.php:8 inc/castom-leadership-post-type.php:19
+msgid "Leaderships"
+msgstr "Лидеры"
+
+#: inc/castom-leadership-post-type.php:9
+msgid "Leadership"
+msgstr "Лидер"
+
+#: inc/castom-leadership-post-type.php:10
+msgid "Add profile"
+msgstr "Добавить профиль"
+
+#: inc/castom-leadership-post-type.php:11
+msgid "Addition profile"
+msgstr "Добавление профиля"
+
+#: inc/castom-leadership-post-type.php:12
+msgid "Edit profile"
+msgstr "Редактировать профиль"
+
+#: inc/castom-leadership-post-type.php:13
+msgid "Create profile"
+msgstr "Создать профиль"
+
+#: inc/castom-leadership-post-type.php:14
+msgid "View profile"
+msgstr "Просмотреть профиль"
+
+#: inc/castom-leadership-post-type.php:15
+msgid "Search profile"
+msgstr "Найти профиль"
+
+#: inc/castom-leadership-post-type.php:16
+#: inc/castom-testimonial-post-type.php:15
+msgid "Not found"
+msgstr "Не найдено"
+
+#: inc/castom-leadership-post-type.php:17
+#: inc/castom-testimonial-post-type.php:16
+msgid "Not found in trash"
+msgstr "Не найдено в корзине"
+
+#: inc/castom-metaboxes.php:25
+msgid "Leadership name"
+msgstr "Имя лидера"
+
+#: inc/castom-metaboxes.php:28
+msgid "Social network icon first"
+msgstr "Первая иконка социальных сетей"
+
+#: inc/castom-metaboxes.php:32
+msgid "Social network icon second"
+msgstr "Вторая иконка социальных сетей"
+
+#: inc/castom-metaboxes.php:36
+msgid "Social network icon third"
+msgstr "Третья иконка социальных сетей"
+
+#: inc/castom-testimonial-post-type.php:7
+#: inc/castom-testimonial-post-type.php:18
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: inc/castom-testimonial-post-type.php:8
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: inc/castom-testimonial-post-type.php:9
+msgid "Add testimonial"
+msgstr "Добавить отзыв"
+
+#: inc/castom-testimonial-post-type.php:10
+msgid "Addition testimonial"
+msgstr "Добавить отзыв"
+
+#: inc/castom-testimonial-post-type.php:11
+msgid "Edit testimonial"
+msgstr "Редактирование отзыва"
+
+#: inc/castom-testimonial-post-type.php:12
+msgid "Create testimonial"
+msgstr "Создать отзыв"
+
+#: inc/castom-testimonial-post-type.php:13
+msgid "View testimonial"
+msgstr "Просмотреть отзыв"
+
+#: inc/castom-testimonial-post-type.php:14
+msgid "Search testimonial"
+msgstr "Найти отзыв"
+
+#: inc/theme-options-settings.php:129
+msgid "General settings"
+msgstr "Общие  данные для темы"
+
+#: inc/theme-options-settings.php:141
+msgid "General options"
+msgstr "Общие опции для шапки"
+
+#: inc/theme-options-settings.php:151
+msgid "Footer options"
+msgstr "Опции для футера"
+
+#: inc/theme-options-settings.php:205
+msgid "Site title"
+msgstr "Титул сайта"
+
+#: inc/theme-options-settings.php:219
+msgid "Footer section 1-st title"
+msgstr "Секция футтера 1 титул"
+
+#: inc/theme-options-settings.php:233
+msgid "Footer section 1 content"
+msgstr "Контент секции 1 футтера"
+
+#: inc/theme-options-settings.php:246
+msgid "Footer section 2-nd title"
+msgstr "Титул секции 2 футтера"
+
+#: inc/theme-options-settings.php:260
+msgid "Footer section 3-st title"
+msgstr "Титул секции 3 футтера"
+
+#: inc/theme-options-settings.php:274
+msgid "Footer section 3 content"
+msgstr "Контент секции 3 футтера"
+
+#: inc/theme-options-settings.php:286
+msgid "Footer section 4-st title"
+msgstr "Контент секции 1 футтера"
+
+#: inc/theme-options-settings.php:300
+msgid "Footer section 4 content (Shortcode for form.)"
+msgstr "Контент секции 4 футтера (Шот-код формы)"
+
+#: inc/theme-options-settings.php:313
+msgid "Footer section 5-st title. (Social contacts)"
+msgstr "Титул секции 5 футтера (Социальные контакты)"
+
+#: inc/theme-options-settings.php:327
+msgid "Footer section 5 content. (1-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (1-я  иконка социальных сетей)"
+
+#: inc/theme-options-settings.php:339
+msgid "Footer section 5 content. (1-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 1-й социальной иконки)"
+
+#: inc/theme-options-settings.php:354
+msgid "Footer section 5 content. (2-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (2-я иконка социальных сетей)"
+
+#: inc/theme-options-settings.php:366
+msgid "Footer section 5 content. (2-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 2-й иконки социальных сетей)"
+
+#: inc/theme-options-settings.php:380
+msgid "Footer section 5 content. (3-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (3-я иконка социальных сетей)"
+
+#: inc/theme-options-settings.php:392
+msgid "Footer section 5 content. (3-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 3-й иконки социальных сетей)"
+
+#: inc/theme-options-settings.php:406
+msgid "Footer section 5 content. (4-st social icon's name.)"
+msgstr "Контент секции 5 футтера  (4-я иконка социальных сетей)"
+
+#: inc/theme-options-settings.php:418
+msgid "Footer section 5 content. (4-st social link's name.)"
+msgstr "Контент секции 5 футтера  (Название 4-й иконки социальных сетей)"
+
+#: widget/discaver_widget.php:13
+msgid "Discaver"
+msgstr "Достижение"
+
+#: widget/discaver_widget.php:37
+msgid "Discaver description"
+msgstr "Описание достижений"
+
+#: widget/discaver_widget.php:47 widget/donation_widget.php:45
+#: widget/icon_info_widget.php:45 widget/leadership_widget.php:45
+#: widget/our_mission_widget.php:47 widget/simple_info_widget.php:45
+#: widget/testimonial_widget.php:45
+msgid "Title"
+msgstr "Титул"
+
+#: widget/discaver_widget.php:49 widget/discaver_widget.php:83
+#: widget/donation_widget.php:47 widget/donation_widget.php:57
+#: widget/icon_info_widget.php:47 widget/leadership_widget.php:47
+#: widget/our_mission_widget.php:49 widget/recently_blog_widget.php:47
+#: widget/simple_info_widget.php:47 widget/testimonial_widget.php:47
+msgid "Default title"
+msgstr "Титул по умолчанию"
+
+#: widget/discaver_widget.php:50 widget/discaver_widget.php:84
+#: widget/donation_widget.php:48 widget/icon_info_widget.php:48
+#: widget/leadership_widget.php:48 widget/our_mission_widget.php:50
+#: widget/recently_blog_widget.php:48 widget/simple_info_widget.php:48
+#: widget/testimonial_widget.php:48
+msgid "Type your title here"
+msgstr "Напиши свой титул здесь"
+
+#: widget/discaver_widget.php:57 widget/icon_info_widget.php:55
+#: widget/leadership_widget.php:55 widget/our_mission_widget.php:57
+#: widget/simple_info_widget.php:55
+msgid "Description"
+msgstr "Описание"
+
+#: widget/discaver_widget.php:60 widget/icon_info_widget.php:58
+#: widget/leadership_widget.php:58 widget/our_mission_widget.php:60
+#: widget/simple_info_widget.php:58
+msgid "Type your description here"
+msgstr "Напиши здесь свое описание"
+
+#: widget/discaver_widget.php:71
+msgid "Discaver data"
+msgstr "Данные достижения"
+
+#: widget/discaver_widget.php:81
+msgid "Discaver Description Title"
+msgstr "Напиши описание достижений"
+
+#: widget/discaver_widget.php:101
+msgid "Choose Discaver Content Image"
+msgstr "Выберите картинку для контента достижения"
+
+#: widget/discaver_widget.php:112
+msgid "First Subtitle"
+msgstr "Первый подзаголовок"
+
+#: widget/discaver_widget.php:114
+msgid "Default first subtitle"
+msgstr "Первый подзаголовокпо умолчанию"
+
+#: widget/discaver_widget.php:115
+msgid "Type your first subtitle here"
+msgstr "Напишите  ваш первый подзаголовок здесь"
+
+#: widget/discaver_widget.php:122
+msgid "Second Subtitle"
+msgstr "Второй подзаголовок"
+
+#: widget/discaver_widget.php:124
+msgid "Default second subtitle"
+msgstr "Второй подзаголовок по умолчанию"
+
+#: widget/discaver_widget.php:125
+msgid "Type your second subtitle here"
+msgstr "Напишите  ваш второй подзаголовок здесь"
+
+#: widget/discaver_widget.php:132
+msgid "First Namber"
+msgstr "Первый номер"
+
+#: widget/discaver_widget.php:134
+msgid "Default first namber"
+msgstr "Первый номер по умолчению"
+
+#: widget/discaver_widget.php:135
+msgid "Type your first namber here"
+msgstr "Напишите  ваш первый номер здесь"
+
+#: widget/discaver_widget.php:142
+msgid "Second Namber"
+msgstr "Второй номер"
+
+#: widget/discaver_widget.php:144
+msgid "Default second namber"
+msgstr "Второй номер по умолчанию"
+
+#: widget/discaver_widget.php:145
+msgid "Type your second namber here"
+msgstr "Напишите ваш  второй номер здесь"
+
+#: widget/discaver_widget.php:153
+msgid "Discaver content's data"
+msgstr "Информация о достижениях"
+
+#: widget/donation_widget.php:13
+msgid "Donation info"
+msgstr "Информация о пожертвованиях"
+
+#: widget/donation_widget.php:37
+msgid "Donation content"
+msgstr "Контент пожертвования"
+
+#: widget/donation_widget.php:55
+msgid "Button Title"
+msgstr "Название кнопки"
+
+#: widget/donation_widget.php:58
+msgid "Type utton title here"
+msgstr "Напишите название кнопки здесь"
+
+#: widget/donation_widget.php:65
+msgid "URL to donation"
+msgstr "URL для пожертвования"
+
+#: widget/donation_widget.php:75 widget/simple_info_widget.php:65
+msgid "Background color"
+msgstr "Цвет фона"
+
+#: widget/donation_widget.php:86 widget/our_mission_widget.php:78
+#: widget/testimonial_widget.php:67
+msgid "Choose Background Image"
+msgstr "Выберите изображение заднего фона"
+
+#: widget/icon_info_widget.php:13
+msgid "Simple icon info"
+msgstr "Информация об иконке"
+
+#: widget/icon_info_widget.php:37
+msgid "Icon info content"
+msgstr "Контент иконки"
+
+#: widget/icon_info_widget.php:65
+msgid "Social Icons"
+msgstr "Иконки социальных сетей"
+
+#: widget/leadership_widget.php:13 widget/leadership_widget.php:37
+msgid "Leadership section"
+msgstr "Секция  лидеров"
+
+#: widget/leadership_widget.php:66
+msgid "Leadership posts count"
+msgstr "Количество постов с лидерами"
+
+#: widget/leadership_widget.php:69 widget/recently_blog_widget.php:69
+#: widget/testimonial_widget.php:59
+msgid "Type posts count"
+msgstr "Количество постов"
+
+#: widget/our_mission_widget.php:13
+msgid "Our mission"
+msgstr "Наша миссия"
+
+#: widget/our_mission_widget.php:37
+msgid "Mission content & background"
+msgstr "Фон  секции «Наша миссия»"
+
+#: widget/our_mission_widget.php:67
+msgid "Background mask color"
+msgstr "Цвет фона"
+
+#: widget/our_mission_widget.php:98
+msgid "Video data"
+msgstr "Информация о видео"
+
+#: widget/our_mission_widget.php:106
+msgid "Video Preview Image"
+msgstr "Заставка для видео"
+
+#: widget/our_mission_widget.php:117
+msgid "Video link"
+msgstr "Ссылка на видео"
+
+#: widget/our_mission_widget.php:134
+msgid "Counter data"
+msgstr "Информация о счетчике"
+
+#: widget/our_mission_widget.php:142
+msgid "Counter number"
+msgstr "Номер счетчика"
+
+#: widget/our_mission_widget.php:152
+msgid "Counter title"
+msgstr "Название счетчика"
+
+#: widget/our_mission_widget.php:163
+msgid "Counter"
+msgstr "Счетчик"
+
+#: widget/recently_blog_widget.php:13
+msgid "Recently blog section"
+msgstr "Секция  последнего поста блога"
+
+#: widget/recently_blog_widget.php:37
+msgid "Blog section"
+msgstr "Секция блога"
+
+#: widget/recently_blog_widget.php:45
+msgid "Blog title"
+msgstr "Название блога"
+
+#: widget/recently_blog_widget.php:55
+msgid "Blog description"
+msgstr "Описание блога"
+
+#: widget/recently_blog_widget.php:66 widget/testimonial_widget.php:56
+msgid "Testimonial posts count"
+msgstr "Количество постов в отзывах"
+
+#: widget/recently_blog_widget.php:76 widget/testimonial_widget.php:77
+msgid "Testimonial color"
+msgstr "Цвет фона секции отзывов"
+
+#: widget/simple_info_widget.php:13
+msgid "Simple info"
+msgstr "Информация простого блока"
+
+#: widget/simple_info_widget.php:37
+msgid "Simple info content"
+msgstr "Контент простого блока"
+
+#: widget/slider_widget.php:13
+msgid "slider"
+msgstr "слайдер"
+
+#: widget/slider_widget.php:37
+msgid "Slider content"
+msgstr "Контент слайдера"
+
+#: widget/slider_widget.php:49
+msgid "URL to embed"
+msgstr "URL для вставки"
+
+#: widget/slider_widget.php:52
+msgid "https://your-link.com"
+msgstr "Напиши свой титул здесь"
+
+#: widget/slider_widget.php:59
+msgid "Choose Image"
+msgstr "Выберите изображение"
+
+#: widget/slider_widget.php:97
+msgid "Slider"
+msgstr "Слайдер"
+
+#: widget/slider_widget.php:102
+msgid "Image #1"
+msgstr "Изображение  #1"
+
+#: widget/slider_widget.php:103 widget/slider_widget.php:107
+msgid "Item content. Click the edit button to change this text."
+msgstr "Содержимое. Нажмите кнопку редоктирования для внесения изменений. "
+
+#: widget/slider_widget.php:106
+msgid "Image #2"
+msgstr "Изображение  #2"
+
+#: widget/testimonial_widget.php:13 widget/testimonial_widget.php:37
+msgid "Testimonial section"
+msgstr "Секция отзывов"

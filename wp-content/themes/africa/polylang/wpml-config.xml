@@ -1,0 +1,10 @@
+<wpml-config>
+	<admin-texts>
+			<key name="site_title_settings" />
+			<key name="footer_title1_setting" />
+			<key name="footer_title2_setting" />
+			<key name="footer_title3_setting" />
+			<key name="footer_title4_setting" />
+			<key name="footer_title5_setting" />
+	</admin-texts>
+</wpml-config>

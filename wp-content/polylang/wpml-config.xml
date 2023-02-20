@@ -1,0 +1,13 @@
+<wpml-config>
+	<admin-texts>
+			<key name="site_title_settings" />
+			<key name="footer_section_1_header" />
+			<key name="footer_section_1_content" />
+			<key name="footer_section_2_header" />
+			<key name="footer_section_3_header" />
+			<key name="footer_section_3_content" />
+			<key name="footer_section_4_header" />
+			<key name="footer_section_4_content" />
+			<key name="footer_section_5_header" />
+	</admin-texts>
+</wpml-config>
